@@ -9,8 +9,8 @@ worth checking every once in a while; espeically if you don't keep up with game 
 
 
 ## usage
-1. don't forget to run `npm install`
-2. `node runme.js` or double click on `steamcharts.bat`
+1. make sure python is installed. some module depends on it .-.
+2. double click on `find-new-games.bat`
 
 ## output (run on 1/28/2022)
 ![example](example.png)
